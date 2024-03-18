@@ -1,2 +1,3 @@
-# omgmounter
-Translation files for OMGMounter
+# [OMGMounter] translation files
+
+[OMGMounter]: https://github.com/qtilities/omgmounter/
